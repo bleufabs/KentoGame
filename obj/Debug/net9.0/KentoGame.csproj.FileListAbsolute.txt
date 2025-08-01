@@ -15,6 +15,7 @@ C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\Kento
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\KentoGame.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\KentoGame.RazorAssemblyInfo.cache
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\KentoGame.RazorAssemblyInfo.cs
+C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\KentoGame.sourcelink.json
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -23,6 +24,7 @@ C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\scope
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\scopedcss\projectbundle\KentoGame.bundle.scp.css
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\compressed\p9xt931jre-6j5e437se8.gz
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\compressed\y66kuppn8h-61n19gt1b8.gz
+C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\compressed\zrejvrmyz6-5apaf7qbm7.gz
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\compressed\yyxkxnbsr4-bqjiyaj88i.gz
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\compressed\xayhycyfba-c2jlpeoesf.gz
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\compressed\q7p3b3111o-erw9l3u2r3.gz
@@ -93,5 +95,3 @@ C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\refin
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\KentoGame.pdb
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\KentoGame.genruntimeconfig.cache
 C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\ref\KentoGame.dll
-c:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\KentoGame.sourcelink.json
-C:\Users\bleuf\xammp\htdocs\Portfolio\kentoGame\KentoGame\obj\Debug\net9.0\compressed\zrejvrmyz6-gx68kthdxp.gz

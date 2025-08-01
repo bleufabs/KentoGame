@@ -59,6 +59,6 @@ async function nextScene() {
 
 async function updateAffection() {
     const res = await fetch("/api/game/affection");
-    const level = await res.text();
+    const level = await res.json();
     document.getElementById("kento-affection").textContent = level;
 }
