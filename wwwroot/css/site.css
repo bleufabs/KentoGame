@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1c1c1c;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #fdf6e3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.game-container {
+  width: 90%;
+  max-width: 600px;
+  background-color: #2e2e2e;
+  border: 2px solid #d4af37; /* gold tone */
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.dialogue-box {
+  background-color: #1e1e1e;
+  padding: 20px;
+  border-radius: 8px;
+  min-height: 100px;
+  margin-bottom: 15px;
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+.choice-box {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.choice-box button {
+  padding: 10px;
+  font-size: 1rem;
+  background-color: #3a3a3a;
+  color: #fff;
+  border: 1px solid #d4af37;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.choice-box button:hover {
+  background-color: #d4af37;
+  color: #1c1c1c;
+}
+
+#affection-display {
+  margin-top: 30px;
+  font-size: 1.2em;
+  color: #aaa;
+}

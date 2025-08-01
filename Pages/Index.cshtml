@@ -1,0 +1,23 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Nanami Text Game";
+}
+
+<div class="game-container">
+    <div class="dialogue-box" id="scene-text">
+        Loading...
+    </div>
+
+    <div class="choice-box" id="choices">
+        <!-- Choices will be inserted here -->
+    </div>
+
+    <div id="affection-display" class="affection-display">
+        Kento Affection: <span id="kento-affection">0</span>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/site.js"></script>
+}
