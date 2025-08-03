@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "D3Sok0lgy/A=",
+  "dgSpecHash": "XLiMu6MBhWY=",
   "success": true,
   "projectFilePath": "C:\\Users\\bleuf\\xammp\\htdocs\\Portfolio\\kentoGame\\KentoGame\\KentoGame.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bleuf\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.18\\microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\bleuf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.18\\microsoft.windowsdesktop.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\bleuf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.18\\microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\bleuf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.18\\microsoft.netcore.app.host.win-x64.8.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
