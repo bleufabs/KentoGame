@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KentoGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fb0012aeeb07e7b5db076e68698a09259971d68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89583c66e7749392e6e2cde3e79a2e670a171bb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("KentoGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KentoGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
