@@ -6,7 +6,7 @@ namespace KentoGame.Pages
 {
     public class IndexModel : PageModel
     {
-        public string SceneText { get; set; }
+        public string? SceneText { get; set; }
         public List<string> Choices { get; set; } = new();
         public int Affection { get; set; }
 
